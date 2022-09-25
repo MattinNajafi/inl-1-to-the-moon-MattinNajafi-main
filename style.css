@@ -15,7 +15,7 @@ main {
 .image-div {
     height: 100vh;
     width: 100%;
-    background-image: url(/inl-1-to-the-moon-MattinNajafi-main/assets/photos/adam-miller-dBaz0xhCkPY-unsplash.jpg);
+    background-image: url(./inl-1-to-the-moon-MattinNajafi-main/assets/photos/adam-miller-dBaz0xhCkPY-unsplash.jpg);
     object-fit: cover;
     background-position: center;
     background-size: cover;
@@ -221,7 +221,7 @@ header i {
 .text-paragraph-image div{
   width: 150px;
   height: 150px;
-  background: url(/inl-1-to-the-moon-MattinNajafi-main/assets/photos/major_tom.jpg);
+  background: url(./inl-1-to-the-moon-MattinNajafi-main/assets/photos/major_tom.jpg);
   background-size: cover;
   background-position: 50% 50%;
   float: right;
